@@ -22,6 +22,7 @@ https://min-cheng.github.io/imp-calendar/imp_concerts.ics
 2. Click **Add calendar** → **From URL**
 3. Paste the calendar URL
 4. Click **Add calendar**
+5. Rename the calendar "IMP Concerts".
 
 #### Outlook
 1. Go to **Calendar** → **Add calendar** → **Subscribe from web**
