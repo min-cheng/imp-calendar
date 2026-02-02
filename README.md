@@ -7,7 +7,7 @@ An auto-updating calendar of concerts from [IMP Concerts](https://www.impconcert
 Add this calendar to your favorite calendar app using the subscription URL:
 
 ```
-https://<your-username>.github.io/imp-calendar/imp_concerts.ics
+https://min-cheng.github.io/imp-calendar/imp_concerts.ics
 ```
 
 ### Instructions by App
